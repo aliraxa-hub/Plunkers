@@ -1,8 +1,8 @@
-# Friends List App
+# Friends List Web Application
 
-Hello my name is John Elder and I work at Codemy.com
+Hello my name is Ali Raza and I work at nextonhub.me
 
-This is my Ruby on Rails Friends List App!
+This is my Ruby on Rails Friends List Web Application
 
-Follow me at Codemy.com
+Check me out on nextonhub.me
 
